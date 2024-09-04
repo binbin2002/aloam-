@@ -1,0 +1,2 @@
+aloam_md
+-DCATKIN_DEVEL_PREFIX=/home/yang/UAV_explorer/ALOAM/devel -DCMAKE_INSTALL_PREFIX=/home/yang/UAV_explorer/ALOAM/install -G Unix Makefiles
